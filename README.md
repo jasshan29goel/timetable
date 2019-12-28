@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+This app is basically a react frontend web application which uses json placeholder for sending fake requests
+The app has all the CRUD features
+
+## Link to access the app
+
+[https://jasshan29goel.github.io/timetable/#/]
+
+
 ## Available Scripts
 
 In the project directory, you can run:
