@@ -1,0 +1,36 @@
+{
+  "timeSlots": [
+    {
+            "id": 1,
+            "startTime": "10:00",
+            "endTime": "11:30",
+            "name": "AAD",
+            "place": "H-105",
+            "day": "Monday"
+        },
+        {
+            "id": 2,
+            "startTime": "11:30",
+            "endTime": "13:00",
+            "name": "DSM",
+            "place": "H-205",
+            "day": "Friday"
+        },
+        {
+            "id": 3,
+            "startTime": "17:30",
+            "endTime": "18:30",
+            "name": "PT",
+            "place": "Ground",
+            "day": "Wednesday"
+        },
+        {
+            "id": 4,
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "name": "Tutorial",
+            "place": "H-301",
+            "day": "Thursday"
+        }
+  ]
+}
